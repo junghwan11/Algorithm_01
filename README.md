@@ -16,3 +16,8 @@ model은 1번째와 동일하게 1로 실행했습니다.
 
 ![case2-3](https://user-images.githubusercontent.com/81547318/121811998-32433b80-cca1-11eb-9066-c81f893edb75.PNG)
 ![case2-4](https://user-images.githubusercontent.com/81547318/121811999-32433b80-cca1-11eb-915e-c5d6c82f4130.PNG)
+
+
+최종 산출물 비교시 1번째 case가 2번째 case보다 더 정확도가 높다는 것을 알 수 있습니다.
+
+다음 3번째는 1번째와 동일하게 MNIST dataset은 7입니다.
