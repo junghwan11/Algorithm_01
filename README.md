@@ -4,3 +4,5 @@
 
 model은 1로 실행했으며 summary의 결과값입니다.
 ![case1-2](https://user-images.githubusercontent.com/81547318/121811888-ccef4a80-cca0-11eb-9594-0ce73803f2f4.PNG)
+
+![case1-3](https://user-images.githubusercontent.com/81547318/121811914-e85a5580-cca0-11eb-8468-58593771874e.PNG)
