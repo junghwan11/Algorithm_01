@@ -1,2 +1,4 @@
 # Algorithm_01
-![1234](https://user-images.githubusercontent.com/81547318/121808993-fd7db700-cc95-11eb-9f33-8efcd357c0f3.jpg)
+1번째 실험시 MNIST dataset입니다. 7개로 실행했습니다.
+![case1-1](https://user-images.githubusercontent.com/81547318/121811849-a3ceba00-cca0-11eb-9c74-41fdfdad28eb.PNG)
+
